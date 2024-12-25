@@ -11,6 +11,8 @@ description: >-
 
 The Digital AI Mini-Me Project is an innovative initiative to build a digital representation of a person. This AI-powered avatar can:
 
+<figure><img src=".gitbook/assets/u5397467615_A_logo_of_a_pictured_human_male_that_is_looking_t_44c19546-eead-4f0f-a75a-67dfcf6f7193_2.png" alt="ai image" width="375"><figcaption><p>Representation of the core DQC philosophy.</p></figcaption></figure>
+
 * Mimic your conversational style and knowledge.
 * Assist in answering questions in your areas of expertise.
 * Act as a virtual assistant or consultant for your personal or professional needs.
