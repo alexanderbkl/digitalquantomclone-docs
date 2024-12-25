@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Welcome to the Digital Quantum Clone Project!](README.md)
+* [Bienvenido al Proyecto de Mini-Yo Digital con IA](README.md)
