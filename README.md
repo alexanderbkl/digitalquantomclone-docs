@@ -3,6 +3,7 @@ description: >-
   Welcome to the documentation for the Digital AI Mini-Me Project. This page is
   your comprehensive guide to understanding, developing, and utilizing a
   personalized AI-powered digital avatar of yourself.
+coverY: 0
 ---
 
 # Welcome to the Digital Quantum Clone Project!
